@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a832921.css",
-    "main.js": "/static/js/main.25671d5b.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/index.html",
-    "main.3a832921.css.map": "/static/css/main.3a832921.css.map",
-    "main.25671d5b.js.map": "/static/js/main.25671d5b.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Edvora_Assessment/static/css/main.3a832921.css",
+    "main.js": "/Edvora_Assessment/static/js/main.f99d172a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Edvora_Assessment/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Edvora_Assessment/index.html",
+    "main.3a832921.css.map": "/Edvora_Assessment/static/css/main.3a832921.css.map",
+    "main.f99d172a.js.map": "/Edvora_Assessment/static/js/main.f99d172a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Edvora_Assessment/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a832921.css",
-    "static/js/main.25671d5b.js"
+    "static/js/main.f99d172a.js"
   ]
 }
